@@ -17,5 +17,6 @@ The **LLM Guard Prompt Sanitizer** is a powerful tool designed to automatically 
 - **Compliance**: Ensure compliance with data protection regulations by sanitizing prompts before processing.
 - **Research and Development**: Facilitate safe experimentation with LLMs in academic and industrial research.
 
-![Uploading image.png…]()
+<img width="1036" alt="image" src="https://github.com/user-attachments/assets/f732a8bc-db26-42d2-955f-3716f6cb0499">
+
 
