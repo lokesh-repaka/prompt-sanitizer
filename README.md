@@ -4,6 +4,10 @@
 
 The **LLM Guard Prompt Sanitizer** is a powerful tool designed to automatically clean sensitive information from prompts, ensuring safe and secure interactions with Large Language Models (LLMs). This application leverages advanced input and output scanning techniques to identify and anonymize sensitive data, such as personal identifiers, contact information, and financial details, before they are processed by LLMs.
 
+<img width="1036" alt="image" src="https://github.com/user-attachments/assets/f732a8bc-db26-42d2-955f-3716f6cb0499">
+## Sample Output
+<img width="902" alt="image" src="https://github.com/user-attachments/assets/18e31168-f3e6-488f-bb15-95654dd1409d">
+
 ### Key Features
 
 - **Sensitive Data Anonymization**: Automatically detects and removes sensitive information from user prompts.
@@ -17,6 +21,6 @@ The **LLM Guard Prompt Sanitizer** is a powerful tool designed to automatically 
 - **Compliance**: Ensure compliance with data protection regulations by sanitizing prompts before processing.
 - **Research and Development**: Facilitate safe experimentation with LLMs in academic and industrial research.
 
-<img width="1036" alt="image" src="https://github.com/user-attachments/assets/f732a8bc-db26-42d2-955f-3716f6cb0499">
+
 
 
