@@ -12,11 +12,11 @@ input_scanners = [Anonymize(vault), PromptInjection()]
 
 # Default prompt
 default_prompt = (
-    "Make an SQL insert statement to add a new user to our database. "
-    "Name is John Doe. Email is test@test.com, but also possible to contact "
-    "him with hello@test.com email. Phone number is 555-123-4567, and "
-    "the IP address is 192.168.1.100. The credit card number is 4567-8901-2345-6789. "
-    "He works in Test LLC."
+    "Create an SQL query to insert a new customer into the database."
+"Their full name is Jane Smith, and they can be reached via email at example@example.com,"
+"with an alternative email of contact@example.com. The phone number is 987-654-3210,"
+"and their IP address is 10.0.0.2. The credit card number is 1234-5678-9876-5432."
+"They are employed by Sample Corp."
 )
 
 # Streamlit application
